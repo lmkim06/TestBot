@@ -22,7 +22,7 @@ def msg_received_from_group():
     send_msg("Hello")
 	
 
-  return "ok", 200
+  return "ok", 1
 
  
 #Sends a message to the chat that the bot originates from
